@@ -70,7 +70,7 @@ Probability to reach the expectation.
 ## Comfort
 Food/Accommodation/Transport.
 
-| Score | Food | Accommodation | Transport|
+| Score | Food | Accommodation | Transport |
 | --- | --- | --- | --- |
 | 0 pt | Tough | Tough | Inconvenient |
 | 1 pt | Normal | Normal | Convenient |
@@ -78,3 +78,9 @@ Food/Accommodation/Transport.
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Comparison
+
+| Place | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |
+
+
