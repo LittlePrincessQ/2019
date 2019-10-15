@@ -94,12 +94,13 @@ Food/Accommodation/Transport.
 
 | Area | Route | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [东北地区](#东北地区) | 哈尔滨-雪乡 | 2 | 5 | 1 | 2 | 1 | 3 | 14 |
-| [东北地区](#东北地区) | 呼伦贝尔-阿尔山 | 1 | 3 | 1 | 0 | 1 | 1 | 7 |
+| [东北地区](#东北地区) | [哈尔滨-雪乡](#哈尔滨-雪乡) | 2 | 5 | 1 | 2 | 1 | 3 | 14 |
+| [东北地区](#东北地区) | [呼伦贝尔-阿尔山](#呼伦贝尔-阿尔山) | 1 | 3 | 1 | 0 | 1 | 1 | 7 |
 |  |  |  |  |  |  |  |  |  |
 
-## Details
-### 东北地区
+
+## 东北地区
+### 哈尔滨-雪乡
 * Route: 哈尔滨-雪乡
 * Unique: 景点包括冰雕雪雕，仿俄罗斯风格建筑，滑雪以及雪乡雪原。除建筑外基本都只有冬天可见，但其中西式风格建筑、滑雪与雪原在欧洲以及同纬度地区都很普遍甚至有所不如，属于 Common in other places, unusual in winter，2分
 * Safety: 除暴风雪天气都很安全，5分
@@ -108,6 +109,7 @@ Food/Accommodation/Transport.
 * Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
 * Comfort: 饮食住宿中规中矩，交通比较便利，1+1+1=3分
 
+### 呼伦贝尔-阿尔山
 * Route: 呼伦贝尔-阿尔山
 * Unique: 景点包括温泉，滑雪以及雪乡雪原。只有冬天可见但风景不比夏天秋天，同纬度地区都很普遍甚至有所不如，属于 Common in other places&seasons，1分
 * Safety: 暴风雪天气，山路+草原，属于 Tough&Risky，3分
