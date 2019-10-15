@@ -75,5 +75,5 @@ Food/Accommodation/Transport.
 | 1 pt | Normal | Normal | Convenient |
 | 2 pt | Great |  | |
 
-
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Comparison
