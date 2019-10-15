@@ -82,7 +82,7 @@ Food/Accommodation/Transport.
 
 | Area | Route | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 东北地区 | 哈尔滨-雪乡 | 2 | 5 |  |   |   |   |   |
+| [东北地区](#东北地区) | 哈尔滨-雪乡 | 2 | 5 |  |   |   |   |   |
 
 ## Details
 ### 东北地区
