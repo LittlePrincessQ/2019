@@ -89,7 +89,7 @@ Food/Accommodation/Transport.
 * Route: 哈尔滨-雪乡
 * Unique: 景点包括冰雕雪雕，仿俄罗斯风格建筑，滑雪以及雪乡雪原。除建筑外基本都只有冬天可见，但其中西式风格建筑、滑雪与雪原在欧洲以及同纬度地区都很普遍甚至有所不如，属于 Common in other places, unusual in winter，2分
 * Safety: 除暴风雪天气都很安全，5分
-* Price: 高铁票价540，机票1500左右，因为旅游旺季当地行程1500~2000左右， 总体2000~2500或者3000~3500，属于 Not expensive; same as usual， 1分。
+* Price: 高铁票价540，机票1500左右，因为旅游旺季当地行程1500-2000左右， 总体2000-2500或者3000-3500，属于 Not expensive; same as usual， 1分。
 * 
 
 
