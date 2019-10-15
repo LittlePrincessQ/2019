@@ -18,6 +18,7 @@ I reviewed the possible places for traveling in winter. To evaluate each of them
 
 ## Unique
 Is that unusual in other places/time (seasons)?
+
 | Points | Cases |
 | --- | --- |
 | 1 pt | Common in other places&seasons |
