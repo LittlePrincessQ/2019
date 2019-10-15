@@ -18,7 +18,7 @@ I reviewed the possible places for traveling in winter. To evaluate each of them
 ## Unique
 Is that unusual in other places/time (seasons)?
 
-| Points | Cases |
+| Score | Cases |
 | --- | --- |
 | 1 pt | Common in other places&seasons |
 | 2 pt | Common in other places, unusual in winter |
@@ -30,7 +30,7 @@ Note: The reason why "Place" is more important than "Time", is that visiting oth
 ## Safety
 Conditions should be safe.
 
-| Points | Cases |
+| Score | Cases |
 | --- | --- |
 | 1 pt | Deadly |
 | 3 pt | Tough&Risky |
@@ -39,13 +39,31 @@ Conditions should be safe.
 ## Price
 Cost should be acceptable.
 
-| Points | Cases |
+| Score | Cases |
 | --- | --- |
 | 0 pt | Expensive; same as usual |
 | 1 pt | Not expensive; same as usual |
 | 2 pt | Expensive; cheaper than usual |
 | 3 pt | Not expensive; cheaper than usual |
 
+## Time
+Time Period should be suitable.
+
+| Score | Cases |
+| --- | --- |
+| 0 pt | 3/4/8 days |
+| 1 pt | 5/7 days |
+| 2 pt | 6 days|
+
+## Risk
+Probability to reach the expectation.
+
+| Score | Cases |
+| --- | --- |
+| 0 pt | High risk; without back-up plan |
+| 1 pt | High risk; with back-up plan |
+| 1 pt | Low risk; without back-up plan |
+| 2 pt | Low risk; with back-up plan |
 
 
 # Comparison
