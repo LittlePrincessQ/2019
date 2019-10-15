@@ -7,13 +7,14 @@ Year 2019
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Evaluation
-I reviewed the possible places for traveling in winter. To evaluate each of them and compare the expectations ([Section 2](#Comparison)), 6 factors are considered as following:
+I reviewed the possible places for traveling in winter. To evaluate each of them and compare the expectations ([Section Comparison](#Comparison)), 6 factors are considered as following:
 * [Unique](#Unique): Is that unusual in other places/time (seasons)?
 * [Safety](#Safety): Conditions should be safe.
 * [Price](#Price): Cost should be acceptable.
 * [Time](#Time): Time Period should be suitable.
 * [Risk](#Risk): Probability to reach the expectation.
 * [Comfort](#Comfort): Food/Accommodation/Transport.
+Unique and Safety own higher priorities, which means for the places with equal scores, the one having greater Unique and Safety scores would be assigned a higher rank.
 
 ## Unique
 Is that unusual in other places/time (seasons)?
