@@ -65,5 +65,14 @@ Probability to reach the expectation.
 | 1 pt | Low risk; without back-up plan |
 | 2 pt | Low risk; with back-up plan |
 
+## Comfort
+Food/Accommodation/Transport.
+
+| Score | Food | Accommodation | Transport|
+| --- | --- | --- | --- |
+| 0 pt | Tough | Tough | Inconvenient |
+| 1 pt | Normal | Normal | Convenient |
+| 2 pt | Great |  | |
+
 
 # Comparison
