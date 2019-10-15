@@ -3,6 +3,18 @@ Year 2019
 ## Table of Contents
 [Evaluation](#Evaluation)
 
+* [Unique](#Unique)
+
+* [Safety](#Safety)
+
+* [Price](#Price)
+
+* [Time](#Time)
+
+* [Risk](#Risk)
+
+* [Comfort](#Comfort)
+
 [Comparison](#Comparison)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
