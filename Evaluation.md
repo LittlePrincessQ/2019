@@ -118,4 +118,4 @@ Food/Accommodation/Transport.
 * Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
 * Comfort: 饮食有特色但选择很少，住宿条件一般，交通不便利，1+0+0=1分
 
-
+## 华北地区
