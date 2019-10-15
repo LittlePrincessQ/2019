@@ -82,7 +82,8 @@ Food/Accommodation/Transport.
 
 | Area | Route | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [东北地区](#东北地区) | 哈尔滨-雪乡 | 2 | 5 |  |   |   |   |   |
+| [东北地区](#东北地区) | 哈尔滨-雪乡 | 2 | 5 | 1 | 2 | 1 | 3 | 14 |
+|  |  |  |  |  |  |  |  |  |
 
 ## Details
 ### 东北地区
@@ -90,7 +91,9 @@ Food/Accommodation/Transport.
 * Unique: 景点包括冰雕雪雕，仿俄罗斯风格建筑，滑雪以及雪乡雪原。除建筑外基本都只有冬天可见，但其中西式风格建筑、滑雪与雪原在欧洲以及同纬度地区都很普遍甚至有所不如，属于 Common in other places, unusual in winter，2分
 * Safety: 除暴风雪天气都很安全，5分
 * Price: 高铁票价540，机票1500左右，因为旅游旺季当地行程1500-2000左右， 总体2000-2500或者3000-3500，属于 Not expensive; same as usual， 1分。
-* 
+* Time: 可以控制在6-7天，2分
+* Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
+* Comfort: 饮食住宿中规中矩，交通比较便利，1+1+1=3分
 
 
 
