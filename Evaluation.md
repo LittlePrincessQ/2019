@@ -95,6 +95,7 @@ Food/Accommodation/Transport.
 | Area | Route | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [东北地区](#东北地区) | 哈尔滨-雪乡 | 2 | 5 | 1 | 2 | 1 | 3 | 14 |
+| [东北地区](#东北地区) | 呼伦贝尔-阿尔山 | 1 | 3 | 1 | 0 | 1 | 1 | 7 |
 |  |  |  |  |  |  |  |  |  |
 
 ## Details
@@ -107,5 +108,12 @@ Food/Accommodation/Transport.
 * Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
 * Comfort: 饮食住宿中规中矩，交通比较便利，1+1+1=3分
 
+* Route: 呼伦贝尔-阿尔山
+* Unique: 景点包括温泉，滑雪以及雪乡雪原。只有冬天可见但风景不比夏天秋天，同纬度地区都很普遍甚至有所不如，属于 Common in other places&seasons，1分
+* Safety: 暴风雪天气，山路+草原，属于 Tough&Risky，3分
+* Price: 机票1200左右，当地行程1500左右， 总体2700左右，属于 Not expensive; same as usual， 1分。
+* Time: 单个景点4-5天，都去8天，0分
+* Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
+* Comfort: 饮食有特色但选择很少，住宿条件一般，交通不便利，1+0+0=1分
 
 
