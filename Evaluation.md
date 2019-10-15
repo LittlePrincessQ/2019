@@ -27,6 +27,25 @@ Is that unusual in other places/time (seasons)?
 
 Note: The reason why "Place" is more important than "Time", is that visiting other places during appropriate seasons is better than revisiting this place in the future.
 
-## Unique
+## Safety
+Conditions should be safe.
+
+| Points | Cases |
+| --- | --- |
+| 1 pt | Deadly |
+| 3 pt | Tough&Risky |
+| 5 pt | Safe |
+
+## Price
+Cost should be acceptable.
+
+| Points | Cases |
+| --- | --- |
+| 0 pt | Expensive; same as usual |
+| 1 pt | Not expensive; same as usual |
+| 2 pt | Expensive; cheaper than usual |
+| 3 pt | Not expensive; cheaper than usual |
+
+
 
 # Comparison
