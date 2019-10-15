@@ -79,8 +79,9 @@ Food/Accommodation/Transport.
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Comparison
 
-| Place | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |   |   |
+| Place | Available Views | Unique | Safety | Price | Time | Risk | Comfort | Total Score |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |   |
+
 
 
