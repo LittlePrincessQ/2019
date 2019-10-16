@@ -97,6 +97,8 @@ Food/Accommodation/Transport.
 | [东北地区](#东北地区) | [哈尔滨-雪乡](#哈尔滨-雪乡) | 2 | 5 | 1 | 2 | 1 | 3 | 14 |
 | [东北地区](#东北地区) | [呼伦贝尔-阿尔山](#呼伦贝尔-阿尔山) | 1 | 3 | 1 | 0 | 1 | 1 | 7 |
 | [西南地区](#西南地区) | [重庆-成都](#重庆-成都) | 3 | 5 | 3 | 1 | 2 | 4 | 18 |
+| [西南地区](#西南地区) | [重庆-成都-九寨沟](#重庆-成都-九寨沟) | 3 | 5 | 3 | 2 | 2 | 3 | 18 |
+| [西南地区](#西南地区) | [成都-稻城亚丁](#成都-稻城亚丁) | 3 | 3 | 3 | 0| 1 | 1 | 11 |
 |  |  |  |  |  |  |  |  |  |
 
 
@@ -130,12 +132,30 @@ Food/Accommodation/Transport.
 
 ## 西南地区
 ### 重庆-成都
-* Route: 重庆-成都
+* Route: 重庆-成都 （城市内，包含锦里川博熊猫基地）
 * Unique: 川蜀特色的生活方式，城区与季节无关，属于 Uncommon in other places, no better than other seasons，3分
 * Safety: 基本没有风险，5分
-* Price: 机票2200左右，当地属于淡季，行程1000左右， 总体2000左右，属于 Not expensive; cheaper than usual，3分。
-* Time: 5天左右，时间自由，1分
-* Risk: 基本无风险，附近备选景点充裕，属于 Low risk; with back-up plan，2分
+* Price: 机票1800左右，当地属于淡季，行程1000左右， 总体2800左右，属于 Not expensive; cheaper than usual，3分。
+* Time: 4-5天，时间自由，1分
+* Risk: 基本无风险，附近备选路线充裕，属于 Low risk; with back-up plan，2分
 * Comfort: 饮食有特色且选择众多，住宿选择众多，交通便利，2+1+1=4分
+
+### 重庆-成都-九寨沟
+* Route: 重庆-成都-九寨沟（或川西环线）
+* Unique: 城区与季节无关，川西冬天别有特色，属于 Uncommon in other places, no better than other seasons，3分
+* Safety: 基本没有风险，5分
+* Price: 机票1800左右，当地属于淡季，行程1500左右， 总体3300左右，属于 Not expensive; cheaper than usual，3分。
+* Time: 6-7天，2分
+* Risk: 九寨沟开放受天气影响，附近备选景点充裕，属于 low risk; with back-up plan，2分
+* Comfort: 饮食有特色且选择众多，城区住宿交通便利，景区住宿交通一般，2+0.5+0.5=3分
+
+### 成都-稻城亚丁
+* Route: 成都-稻城亚丁（川南一线）
+* Unique: 城区与季节无关，稻城亚丁冬季普通，属于 Uncommon in other places, no better than other seasons，3分
+* Safety: 稻城亚丁交通不便且有风险，3分
+* Price: 机票1800左右，当地属于淡季，行程1500左右， 总体3300左右，属于 Not expensive; cheaper than usual，3分。
+* Time: 8天，0分
+* Risk: 稻城亚丁开放以及景色受天气影响，附近备选景点充裕，属于 high risk; with back-up plan，1分
+* Comfort: 饮食有特色但选择少，景区住宿交通一般，1+0+0=1分
 
 ## 福建两广
