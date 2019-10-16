@@ -16,6 +16,9 @@ Year 2019
 * [Comfort](#Comfort)
 
 [Comparison](#Comparison)
+* [Summary](#Summary)
+* [东北地区](#东北地区)
+* [西南地区](#西南地区)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Evaluation
@@ -121,6 +124,7 @@ Food/Accommodation/Transport.
 * Risk: 存在受暴风雪影响的可能，附近没有备选景点，属于 Low risk; without back-up plan，1分
 * Comfort: 饮食有特色但选择很少，住宿条件一般，交通不便利，1+0+0=1分
 
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 ## 华北地区
 不适合冬天旅行
 
@@ -158,4 +162,5 @@ Food/Accommodation/Transport.
 * Risk: 稻城亚丁开放以及景色受天气影响，附近备选景点充裕，属于 high risk; with back-up plan，1分
 * Comfort: 饮食有特色但选择少，景区住宿交通一般，1+0+0=1分
 
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 ## 福建两广
