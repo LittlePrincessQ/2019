@@ -1,29 +1,35 @@
 Year 2019 - Dec
 =============================
 ## Schedule
-[Day 1](#Day-1)
+[On The Way](#On-The-Way)
 
-[Day 2](#Day-2)
+*[Day 1](#Day-1)
 
-[Day 3](#Day-3)
+*[Day 8](#Day-8)
 
-[Day 4](#Day-4)
+[Single Day](#Single-Day)
 
-[Day 5](#Day-5)
+*[Panda Base](#Panda-Base)
 
-[Day 6](#Day-6)
+*[City Travel](#City-Travel)
 
-[Day 7](#Day-7)
-
-[Day 8](#Day-8)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
-# Day 1
-SBeijing to Chengdu
+# On the Way
+## Day 1
+Route: Beijing to Chengdu
 Transport: Flight
 Time: Pending
 
-# Day 2: Chengdu (Mo)
-Daytime: Panda base/zoo
+## Day 8
+Route: Chengdu to Beijing
+Transport: Flight
+Time: Pending
 
-# Day3
+# Single Day
+## Panda Base
+Place: Chengdu - Panda base/zoo
+
+
+## City Travel
+Destination:
