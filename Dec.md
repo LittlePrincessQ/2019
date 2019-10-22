@@ -17,3 +17,6 @@ Year 2019 - Dec
 
 [Day 8](#Day8)
 
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
+# Day 1
+
