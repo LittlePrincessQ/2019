@@ -19,4 +19,11 @@ Year 2019 - Dec
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Day 1
+SBeijing to Chengdu
+Transport: Flight
+Time: Pending
 
+# Day 2: Chengdu (Mo)
+Daytime: Panda base/zoo
+
+# Day3
