@@ -22,23 +22,29 @@ Year 2019 - Dec
 # On the Way
 ## Day 1
 Route: Beijing to Chengdu
+
 Transport: Flight
+
 Time: Pending
 
 ## Day 8
 Route: Chengdu to Beijing
+
 Transport: Flight
+
 Time: Pending
 
 # Single Day
 ## Panda Base
 Place: Chengdu - Panda base/zoo
+
 Estimated Time: Full day
 
 ## City Travel
 Place: Chengdu
+
 Estimated Time: Half/Full day
 
 # Multiple Days
-##
+## 
 
