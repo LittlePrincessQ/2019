@@ -14,6 +14,10 @@ Year 2019 - Dec
 *[City Travel](#City-Travel)
 
 
+[Multiple Day](#Multiple-Days)
+
+*[Panda Base](#Panda-Base)
+
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # On the Way
 ## Day 1
@@ -29,7 +33,12 @@ Time: Pending
 # Single Day
 ## Panda Base
 Place: Chengdu - Panda base/zoo
-
+Estimated Time: Full day
 
 ## City Travel
-Destination:
+Place: Chengdu
+Estimated Time: Half/Full day
+
+# Multiple Days
+##
+
