@@ -3,13 +3,13 @@ Year 2019 - Dec
 ## Schedule
 [Fixed](#Fixed)
 
-*[Day 1](#Day-1)
+*[Day 1: Beijing to Chengdu](#Beijing-to-Chengdu)
 
 *[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
 
-*[Day 8](#Day-8)
+*[Day 8: Chongqing](#Chongqing)
 
-*[Day 9](#Day-9)
+*[Day 9: Chongqing to Beijing](#Chongqing-to-Beijing)
 
 [Single Day](#Single-Day)
 
@@ -19,9 +19,7 @@ Year 2019 - Dec
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Fixed
-## Day 1
-Route: Beijing to Chengdu
-
+## Beijing to Chengdu
 Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
@@ -33,29 +31,29 @@ Time: 12/29/2019, 15:05-18:20
 | :----------:                           | :-----------: |  :-----------: |
 | ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
 
-Day 1: Chengdu - Jiuzhai Valley
+Day 4: Chengdu - Jiuzhai Valley
 
 Estimated Time: 9-10 hours
 
 Accommodation Place: Jiuzhai Valley
 
-Day 2: Jiuzhai Valley
+Day 5: Jiuzhai Valley
 
 Estimated Time: Full days
 
 Accommodation Place: Jiuzhai Valley
 
-Day 3 (opt): Jiuzhai Valley
+Day 6 (opt): Jiuzhai Valley
 
 Estimated Time: Full days
 
 Accommodation Place: Jiuzhai Valley
 
-Day 4: Jiuzhai Valley - Chengdu
+Day 7: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
 
-## Day 8
+## Chongqing
 Route: Chengdu - Chongqing
 
 Transport: High Speed Train
@@ -65,7 +63,7 @@ Estimated Time: 2-3 hours
 Accommodation Place: Chonqing
 
 
-## Day 9
+## Chongqing to Beijing
 Route: Chongqing - Chengdu
 
 Transport: High Speed Train
