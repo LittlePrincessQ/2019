@@ -5,6 +5,8 @@ Year 2019 - Dec
 
 *[Day 1](#Day-1)
 
+*[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai Valley National Park)
+
 *[Day 8](#Day-8)
 
 *[Day 9](#Day-9)
@@ -15,10 +17,6 @@ Year 2019 - Dec
 
 *[City Travel](#City-Travel)
 
-[Multiple Day](#Multiple-Days)
-
-*[Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park): 4 Days
-
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Fixed
 ## Day 1
@@ -27,43 +25,6 @@ Route: Beijing to Chengdu
 Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
-
-## Day 8
-Route: Chengdu - Chongqing
-
-Transport: High Speed Train
-
-Estimated Time: 2-3 hours
-
-Accommodation Place: Chonqing
-
-
-## Day 9
-Route: Chongqing - Chengdu
-
-Transport: High Speed Train
-
-Estimated Time: 2-3 hours
-
-Route: Chengdu - Beijing
-
-Transport: Flight
-
-Time: 01/06/2019, 19:25-21:45
-
-# Single Day
-## Panda Base
-Place: Chengdu - Panda base/zoo
-
-Estimated Time: Full day
-
-## City Travel
-Place: Chengdu
-
-Estimated Time: Half/Full day
-
-###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
-# Multiple Days
 
 ## Jiuzhai Valley National Park
 *Click picture to see details*
@@ -93,5 +54,41 @@ Accommodation Place: Jiuzhai Valley
 Day 4: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
+
+## Day 8
+Route: Chengdu - Chongqing
+
+Transport: High Speed Train
+
+Estimated Time: 2-3 hours
+
+Accommodation Place: Chonqing
+
+
+## Day 9
+Route: Chongqing - Chengdu
+
+Transport: High Speed Train
+
+Estimated Time: 2-3 hours
+
+Route: Chengdu - Beijing
+
+Transport: Flight
+
+Time: 01/06/2020, 19:25-21:45
+
+# Single Day
+## Panda Base
+Place: Chengdu - Panda base/zoo
+
+Estimated Time: Full day
+
+## City Travel
+Place: Chengdu
+
+Estimated Time: Half/Full day
+
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 
 
