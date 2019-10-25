@@ -46,6 +46,7 @@ Place: Chengdu
 
 Estimated Time: Half/Full day
 
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Multiple Days
 ## Chongqing
 Day 1: Chengdu - Chongqing
@@ -71,7 +72,13 @@ Estimated Time: Full days
 
 Accommodation Place: Jiuzhai Valley
 
-Day 3: Jiuzhai Valley - Chengdu
+Day 3 (opt): Jiuzhai Valley
+
+Estimated Time: Full days
+
+Accommodation Place: Jiuzhai Valley
+
+Day 4: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
 
