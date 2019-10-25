@@ -60,6 +60,12 @@ Day 2: Chongqing - Chengdu
 Estimated Time: 2-3 hours
 
 ## Jiuzhai Valley National Park
+*Click picture to see details*
+
+| Sunny Days                           | After Snow    | Special View   |
+| :----------:                           | :-----------: |  :-----------: |
+| ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
+
 Day 1: Chengdu - Jiuzhai Valley
 
 Estimated Time: 9-10 hours
@@ -67,12 +73,6 @@ Estimated Time: 9-10 hours
 Accommodation Place: Jiuzhai Valley
 
 Day 2: Jiuzhai Valley
-
-*Click picture to see details*
-
-| Sunny Days                           | After Snow    | Special View   |
-| :----------:                           | :-----------: |  :-----------: |
-| ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
 
 Estimated Time: Full days
 
