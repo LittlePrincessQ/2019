@@ -71,7 +71,7 @@ Day 2: Jiuzhai Valley
 | Sunny Days                           | After Snow    | Special View   |
 | :----------:                           | :-----------: |  :-----------: |
 | ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
-
+(Click picture to see details)
 
 Estimated Time: Full days
 
