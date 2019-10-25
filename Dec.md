@@ -5,7 +5,7 @@ Year 2019 - Dec
 
 *[Day 1](#Day-1)
 
-*[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai Valley National Park)
+*[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
 
 *[Day 8](#Day-8)
 
