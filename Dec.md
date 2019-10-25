@@ -17,9 +17,7 @@ Year 2019 - Dec
 
 [Multiple Day](#Multiple-Days)
 
-*[Chongqing](#Chongqing)
-
-*[Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
+*[Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park): 4 Days
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Fixed
