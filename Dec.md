@@ -30,7 +30,8 @@ Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
 
-## Day 8: Chengdu - Chongqing
+## Day 8
+Route: Chengdu - Chongqing
 
 Transport: High Speed Train
 
