@@ -69,6 +69,8 @@ Day 2: Jiuzhai Valley
 
 Estimated Time: Full days
 
+Accommodation Place: Jiuzhai Valley
+
 Day 3: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
