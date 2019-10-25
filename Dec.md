@@ -69,6 +69,7 @@ Accommodation Place: Jiuzhai Valley
 Day 2: Jiuzhai Valley
 
 *Click picture to see details*
+
 | Sunny Days                           | After Snow    | Special View   |
 | :----------:                           | :-----------: |  :-----------: |
 | ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
