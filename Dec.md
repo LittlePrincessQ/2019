@@ -15,6 +15,8 @@ Year 2019 - Dec
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Beijing to Chengdu
+Day 1: Beijing to Chengdu
+
 Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
@@ -22,14 +24,14 @@ Time: 12/29/2019, 15:05-18:20
 Accommodation Place: Chengdu
 
 # Panda Base
-Place: Chengdu - Panda base/zoo
+Day 2: Chengdu - Panda base/zoo
 
 Estimated Time: Full day
 
 Accommodation Place: Chengdu
 
 # City Travel
-Place: Chengdu
+Day 3: Chengdu City Travel
 
 Estimated Time: Half/Full day
 
@@ -67,6 +69,8 @@ Estimated Time: 9-10 hours
 Accommodation Place: Chengdu
 
 # Chongqing
+Day 8: Chongqing
+
 Route: Chengdu - Chongqing
 
 Transport: High Speed Train
@@ -77,6 +81,8 @@ Accommodation Place: Chonqing
 
 
 # Chongqing to Beijing
+Day 9: Chongqing to Beijing
+
 Route: Chongqing - Chengdu
 
 Transport: High Speed Train
