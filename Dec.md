@@ -1,9 +1,11 @@
 Year 2019 - Dec
 =============================
 ## Schedule
-[Fixed](#Fixed)
-
 *[Day 1: Beijing to Chengdu](#Beijing-to-Chengdu)
+
+*[Day 2: 熊猫基地](#Panda-Base)
+
+*[Day 3: City Travel](#City-Travel)
 
 *[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
 
@@ -11,20 +13,29 @@ Year 2019 - Dec
 
 *[Day 9: Chongqing to Beijing](#Chongqing-to-Beijing)
 
-[Single Day](#Single-Day)
-
-*[熊猫基地](#Panda-Base)
-
-*[City Travel](#City-Travel)
-
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
-# Fixed
-## Beijing to Chengdu
+# Beijing to Chengdu
 Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
 
-## Jiuzhai Valley National Park
+Accommodation Place: Chengdu
+
+# Panda Base
+Place: Chengdu - Panda base/zoo
+
+Estimated Time: Full day
+
+Accommodation Place: Chengdu
+
+# City Travel
+Place: Chengdu
+
+Estimated Time: Half/Full day
+
+Accommodation Place: Chengdu
+
+# Jiuzhai Valley National Park
 *Click picture to see details*
 
 | Sunny Days                           | After Snow    | Special View   |
@@ -53,7 +64,9 @@ Day 7: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
 
-## Chongqing
+Accommodation Place: Chengdu
+
+# Chongqing
 Route: Chengdu - Chongqing
 
 Transport: High Speed Train
@@ -63,7 +76,7 @@ Estimated Time: 2-3 hours
 Accommodation Place: Chonqing
 
 
-## Chongqing to Beijing
+# Chongqing to Beijing
 Route: Chongqing - Chengdu
 
 Transport: High Speed Train
@@ -75,17 +88,6 @@ Route: Chengdu - Beijing
 Transport: Flight
 
 Time: 01/06/2020, 19:25-21:45
-
-# Single Day
-## Panda Base
-Place: Chengdu - Panda base/zoo
-
-Estimated Time: Full day
-
-## City Travel
-Place: Chengdu
-
-Estimated Time: Half/Full day
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 
