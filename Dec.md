@@ -13,7 +13,7 @@ Year 2019 - Dec
 
 *[Day 9: Chongqing to Beijing](#Chongqing-to-Beijing)
 
-###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Beijing to Chengdu
 Day 1: Beijing to Chengdu
 
@@ -95,6 +95,6 @@ Transport: Flight
 
 Time: 01/06/2020, 19:25-21:45
 
-###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
 
