@@ -13,10 +13,11 @@ Year 2019 - Dec
 
 *[City Travel](#City-Travel)
 
-
 [Multiple Day](#Multiple-Days)
 
-*[Panda Base](#Panda-Base)
+*[Chongqing](#Chongqing)
+
+*[Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # On the Way
@@ -46,5 +47,30 @@ Place: Chengdu
 Estimated Time: Half/Full day
 
 # Multiple Days
-## 
+## Chongqing
+Day 1: Chengdu - Chongqing
+
+Estimated Time: 2-3 hours
+
+Accommodation Place: Chonqing
+
+Day 2: Chongqing - Chengdu
+
+Estimated Time: 2-3 hours
+
+## Jiuzhai Valley National Park
+Day 1: Chengdu - Jiuzhai Valley
+
+Estimated Time: 9-10 hours
+
+Accommodation Place: Jiuzhai Valley
+
+Day 2: Jiuzhai Valley
+
+Estimated Time: Full days
+
+Day 3: Jiuzhai Valley - Chengdu
+
+Estimated Time: 9-10 hours
+
 
