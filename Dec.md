@@ -68,6 +68,10 @@ Accommodation Place: Jiuzhai Valley
 
 Day 2: Jiuzhai Valley
 
+<p align="center">
+<img src="JZG/View1.png" width="600">
+</p>
+
 Estimated Time: Full days
 
 Accommodation Place: Jiuzhai Valley
