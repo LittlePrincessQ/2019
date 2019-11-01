@@ -1,39 +1,41 @@
 Year 2019 - Dec
 =============================
 ## Schedule
-*[Day 1: Beijing to Chengdu](#Beijing-to-Chengdu)
+*[Day 1: Beijing to Chongqing](#Beijing-to-Chongqing)
 
-*[Day 2: 熊猫基地](#Panda-Base)
+*[Day 2: Chongqing](#Chongqing)
 
 *[Day 3: City Travel](#City-Travel)
 
 *[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
 
-*[Day 8: Chongqing](#Chongqing)
+*[Day 8: 熊猫基地](#Panda-Base)
 
-*[Day 9: Chongqing to Beijing](#Chongqing-to-Beijing)
+*[Day 9: Chengdu to Beijing](#Chengdu-to-Beijing)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Beijing to Chengdu
-Day 1: Beijing to Chengdu
+# Beijing to Chongqing
+Day 1: Beijing to Chongqing
 
 Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
 
-Accommodation Place: Chengdu
+Accommodation Place: Chongqing
 
-# Panda Base
-Day 2: Chengdu - Panda base/zoo
+# Chongqing
+Day 2: Chongqing City Travel
 
-Estimated Time: Full day
-
-Accommodation Place: Chengdu
+Accommodation Place: Chonqing
 
 # City Travel
-Day 3: Chengdu City Travel
+Day 3: Chengdu
 
-Estimated Time: Half/Full day
+Route: Chongqing - Chengdu
+
+Transport: High Speed Train
+
+Estimated Time: 2-3 hours
 
 Accommodation Place: Chengdu
 
@@ -68,26 +70,16 @@ Estimated Time: 9-10 hours
 
 Accommodation Place: Chengdu
 
-# Chongqing
-Day 8: Chongqing
+# Panda Base
+Day 8: Chengdu - Panda base/zoo
 
-Route: Chengdu - Chongqing
+Estimated Time: Full day
 
-Transport: High Speed Train
-
-Estimated Time: 2-3 hours
-
-Accommodation Place: Chonqing
+Accommodation Place: Chengdu
 
 
-# Chongqing to Beijing
-Day 9: Chongqing to Beijing
-
-Route: Chongqing - Chengdu
-
-Transport: High Speed Train
-
-Estimated Time: 2-3 hours
+# Chengdu to Beijing
+Day 9: Chengdu to Beijing
 
 Route: Chengdu - Beijing
 
