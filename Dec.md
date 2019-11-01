@@ -21,12 +21,12 @@ Transport: Flight
 
 Time: 12/29/2019, 15:05-18:20
 
-Accommodation Place: Chongqing
+Accommodation Place: Chongqing (12/29/2019 - 12/31/2019)
 
 # Chongqing
 Day 2: Chongqing City Travel
 
-Accommodation Place: Chonqing
+Accommodation Place: Chongqing
 
 # City Travel
 Day 3: Chengdu
@@ -37,7 +37,7 @@ Transport: High Speed Train
 
 Estimated Time: 2-3 hours
 
-Accommodation Place: Chengdu
+Accommodation Place: Chengdu (12/31/2019 - 01/01/2020)
 
 # Jiuzhai Valley National Park
 *Click picture to see details*
@@ -50,7 +50,7 @@ Day 4: Chengdu - Jiuzhai Valley
 
 Estimated Time: 9-10 hours
 
-Accommodation Place: Jiuzhai Valley
+Accommodation Place: Jiuzhai Valley (01/01/2020 - 01/04/2020)
 
 Day 5: Jiuzhai Valley
 
@@ -68,7 +68,7 @@ Day 7: Jiuzhai Valley - Chengdu
 
 Estimated Time: 9-10 hours
 
-Accommodation Place: Chengdu
+Accommodation Place: Chengdu  (01/04/2020 - 01/06/2020)
 
 # Panda Base
 Day 8: Chengdu - Panda base/zoo
