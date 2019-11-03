@@ -19,7 +19,7 @@ Day 1: Beijing to Chongqing
 
 Transport: Flight
 
-Time: 12/29/2019, 15:05-18:20
+Time: 12/29/2019, 18:35-22:50
 
 Accommodation Place: Chongqing (12/29/2019 - 12/31/2019)
 
@@ -85,7 +85,7 @@ Route: Chengdu - Beijing
 
 Transport: Flight
 
-Time: 01/06/2020, 19:25-21:45
+Time: 01/06/2020, 17:20-20:05
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
