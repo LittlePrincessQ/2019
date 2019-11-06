@@ -13,6 +13,8 @@ Year 2019 - Dec
 
 *[Day 9: Chengdu to Beijing](#Chengdu-to-Beijing)
 
+*[Note](#Note)
+
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Beijing to Chongqing
 Day 1: Beijing to Chongqing
@@ -87,6 +89,16 @@ Transport: Flight
 
 Time: 01/06/2020, 17:20-20:05
 
+Accommodation Place: Chengdu  (01/06/2020 - 01/07/2020)
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
+# Note
+*Need to check the transportation between airport and hotel
 
+*Need to book train ticket between Chongqing and Chengdu
+
+*Need to check weather and book ticket of Jiuzhai Valley 15 days before (12/19/2019)
+
+*Need to book bus ticket 1 day before (12/30/2019)
+
+*Need to prepare food before going Jiuzhai Valley
