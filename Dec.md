@@ -1,24 +1,24 @@
 Year 2019 - Dec
 =============================
 ## Schedule
-*[Day 1: 北京 - 重庆](#Beijing-to-Chongqing)
+*[Day 1: 北京 - 重庆](#北京到重庆)
 
-*[Day 2: 重庆](#Chongqing)
+*[Day 2: 重庆](#重庆)
 
-*[Day 3: 成都](#City-Travel)
+*[Day 3: 成都](#成都)
 
-*[Day 4 - 6: 九寨沟国家公园](#Jiuzhai-Valley-National-Park)
+*[Day 4 - 6: 九寨沟国家公园](#九寨沟国家公园)
 
 *[Day 8: 预留时间](#预留时间)
 
-*[Day 8: 熊猫基地](#Panda-Base)
+*[Day 8: 熊猫基地](#熊猫基地)
 
-*[Day 9: 成都 - 北京](#Chengdu-to-Beijing)
+*[Day 9: 成都 - 北京](#成都到北京)
 
 *[注意事项](#注意事项)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Beijing to Chongqing
+# 北京到重庆
 Day 1: 北京 - 重庆
 
 交通: 东方航空 MU5528 （需提前选座，网上值机）
@@ -28,7 +28,7 @@ Day 1: 北京 - 重庆
 住宿: 重庆，2晚 (12/29/2019 - 12/31/2019)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Chongqing
+# 重庆
 Day 2: 重庆
 
 *Click picture to see details*
@@ -40,7 +40,7 @@ Day 2: 重庆
 住宿: 重庆
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# City Travel
+# 成都
 Day 3: 重庆 - 成都
 
 交通: 高铁（需提前订票）
@@ -50,7 +50,7 @@ Day 3: 重庆 - 成都
 住宿: 成都，1晚 (12/31/2019 - 01/01/2020)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Jiuzhai Valley National Park
+# 九寨沟国家公园
 *Click picture to see details*
 
 | 晴天                           | 雪后    | 独有景观   |
@@ -84,13 +84,13 @@ Day 7: 预留时间，未定
 住宿: 成都
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Panda Base
+# 熊猫基地
 Day 8: 熊猫基地
 
 住宿: 成都
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
-# Chengdu to Beijing
+# 成都到北京
 Day 9: 成都 - 北京
 
 交通: 东方航空 MU5274 （需提前选座，网上值机）
