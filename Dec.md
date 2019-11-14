@@ -15,7 +15,7 @@ Year 2019 - Dec
 
 *[Day 9: 成都 - 北京](#Chengdu-to-Beijing)
 
-*[Note](#Note)
+*[注意事项](#注意事项)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Beijing to Chongqing
@@ -95,12 +95,12 @@ Day 9: 成都 - 北京
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
 # Note
-*Need to check the transportation between airport and hotel
+*需要注意重庆江北机场到洪崖洞夜间交通
 
-*Need to book train ticket between Chongqing and Chengdu
+*需要提前预定重庆到成都高铁票
 
-*Need to check weather and book ticket of Jiuzhai Valley 15 days before (12/19/2019)
+*需要提前检查九寨沟天气，余票（提前15天，12/19/2019）
 
-*Need to book bus ticket 1 day before (12/30/2019)
+*需要提前一天(12/30/2019)预定成都到九寨沟大巴车票， 并准备食物
 
-*Need to prepare food before going Jiuzhai Valley
+*需要网上值机，提前选座
