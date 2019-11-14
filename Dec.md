@@ -1,45 +1,48 @@
 Year 2019 - Dec
 =============================
 ## Schedule
-*[Day 1: Beijing to Chongqing](#Beijing-to-Chongqing)
+*[Day 1: 北京 - 重庆](#Beijing-to-Chongqing)
 
-*[Day 2: Chongqing](#Chongqing)
+*[Day 2: 重庆](#Chongqing)
 
-*[Day 3: City Travel](#City-Travel)
+*[Day 3: 成都](#City-Travel)
 
-*[Day 4 - 7: Jiuzhai Valley National Park](#Jiuzhai-Valley-National-Park)
+*[Day 4 - 7: 九寨沟国家公园](#Jiuzhai-Valley-National-Park)
 
 *[Day 8: 熊猫基地](#Panda-Base)
 
-*[Day 9: Chengdu to Beijing](#Chengdu-to-Beijing)
+*[Day 9: 成都 - 北京](#Chengdu-to-Beijing)
 
 *[Note](#Note)
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Beijing to Chongqing
-Day 1: Beijing to Chongqing
+Day 1: 北京 - 重庆
 
-Transport: Flight
+交通: 东方航空 MU5528 （需提前选座，网上值机）
 
-Time: 12/29/2019, 18:35-22:50
+时间: 12/29/2019, 18:35-22:50
 
-Accommodation Place: Chongqing (12/29/2019 - 12/31/2019)
+住宿: 重庆，2晚 (12/29/2019 - 12/31/2019)
 
 # Chongqing
-Day 2: Chongqing City Travel
+Day 2: 重庆
 
-Accommodation Place: Chongqing
+*Click picture to see details*
+
+| :----------:                           | :-----------: |
+| ![江景](/CQ/HYD1.PNG) | ![千与千寻-不可思议之镇](/CQ/HYD2.PNG) |
+
+住宿: 重庆
 
 # City Travel
-Day 3: Chengdu
+Day 3: 重庆 - 成都
 
-Route: Chongqing - Chengdu
+交通: 高铁（需提前订票）
 
-Transport: High Speed Train
+预计时间: 2-3 小时
 
-Estimated Time: 2-3 hours
-
-Accommodation Place: Chengdu (12/31/2019 - 01/01/2020)
+住宿: 成都，1晚 (12/31/2019 - 01/01/2020)
 
 # Jiuzhai Valley National Park
 *Click picture to see details*
