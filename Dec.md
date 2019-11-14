@@ -30,6 +30,7 @@ Day 2: 重庆
 
 *Click picture to see details*
 
+| 长江江景                           | 步行街夜景 |
 | :----------:                           | :-----------: |
 | ![江景](/CQ/HYD1.PNG) | ![千与千寻-不可思议之镇](/CQ/HYD2.PNG) |
 
