@@ -7,7 +7,9 @@ Year 2019 - Dec
 
 *[Day 3: 成都](#City-Travel)
 
-*[Day 4 - 7: 九寨沟国家公园](#Jiuzhai-Valley-National-Park)
+*[Day 4 - 6: 九寨沟国家公园](#Jiuzhai-Valley-National-Park)
+
+*[Day 8: 预留时间](#预留时间)
 
 *[Day 8: 熊猫基地](#Panda-Base)
 
@@ -32,7 +34,7 @@ Day 2: 重庆
 
 | 长江江景                           | 步行街夜景 |
 | :----------:                           | :-----------: |
-| ![江景](/CQ/HYD1.PNG) | ![千与千寻-不可思议之镇](/CQ/HYD2.PNG) |
+| ![江景](/CQ/HYD1.png) | ![千与千寻-不可思议之镇](/CQ/HYD2.png) |
 
 住宿: 重庆
 
@@ -48,52 +50,48 @@ Day 3: 重庆 - 成都
 # Jiuzhai Valley National Park
 *Click picture to see details*
 
-| Sunny Days                           | After Snow    | Special View   |
+| 晴天                           | 雪后    | 独有景观   |
 | :----------:                           | :-----------: |  :-----------: |
-| ![Sunny Days](/JZG/View1.PNG) | ![After Snow](/JZG/View2.PNG) |  ![Special View](/JZG/View3.PNG) |
+| ![晴天](/JZG/View1.PNG) | ![雪后](/JZG/View2.PNG) |  ![独有景观](/JZG/View3.PNG) |
 
-Day 4: Chengdu - Jiuzhai Valley
+Day 4: 成都 - 九寨沟
 
-Estimated Time: 9-10 hours
+交通: 大巴 （需提前一天订票）
 
-Accommodation Place: Jiuzhai Valley (01/01/2020 - 01/04/2020)
+预计时间: 9-10 小时
 
-Day 5: Jiuzhai Valley
+住宿: 九寨沟，2晚 (01/01/2020 - 01/03/2020)
 
-Estimated Time: Full days
+Day 5: 九寨沟，全天
 
-Accommodation Place: Jiuzhai Valley
+住宿: 九寨沟
 
-Day 6 (opt): Jiuzhai Valley
+Day 6: 九寨沟 - 成都
 
-Estimated Time: Full days
+交通: 大巴 （需提前一天订票）
 
-Accommodation Place: Jiuzhai Valley
+预计时间: 9-10 小时
 
-Day 7: Jiuzhai Valley - Chengdu
+住宿: 成都，3晚  (01/03/2020 - 01/06/2020)
 
-Estimated Time: 9-10 hours
+# 预留时间
+Day 7: 预留时间，未定 
 
-Accommodation Place: Chengdu  (01/04/2020 - 01/06/2020)
+住宿: 成都
 
 # Panda Base
-Day 8: Chengdu - Panda base/zoo
+Day 8: 熊猫基地
 
-Estimated Time: Full day
-
-Accommodation Place: Chengdu
-
+住宿: 成都
 
 # Chengdu to Beijing
-Day 9: Chengdu to Beijing
+Day 9: 成都 - 北京
 
-Route: Chengdu - Beijing
+交通: 东方航空 MU5274 （需提前选座，网上值机）
 
-Transport: Flight
+时间: 01/06/2020, 17:20-20:05
 
-Time: 01/06/2020, 17:20-20:05
-
-Accommodation Place: Chengdu  (01/06/2020 - 01/07/2020)
+住宿: 北京，1晚 (01/06/2020 - 01/07/2020)
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
 # Note
