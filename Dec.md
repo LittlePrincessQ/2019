@@ -27,6 +27,7 @@ Day 1: 北京 - 重庆
 
 住宿: 重庆，2晚 (12/29/2019 - 12/31/2019)
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Chongqing
 Day 2: 重庆
 
@@ -38,6 +39,7 @@ Day 2: 重庆
 
 住宿: 重庆
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # City Travel
 Day 3: 重庆 - 成都
 
@@ -47,6 +49,7 @@ Day 3: 重庆 - 成都
 
 住宿: 成都，1晚 (12/31/2019 - 01/01/2020)
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Jiuzhai Valley National Park
 *Click picture to see details*
 
@@ -74,16 +77,19 @@ Day 6: 九寨沟 - 成都
 
 住宿: 成都，3晚  (01/03/2020 - 01/06/2020)
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # 预留时间
 Day 7: 预留时间，未定 
 
 住宿: 成都
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Panda Base
 Day 8: 熊猫基地
 
 住宿: 成都
 
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # Chengdu to Beijing
 Day 9: 成都 - 北京
 
@@ -94,7 +100,7 @@ Day 9: 成都 - 北京
 住宿: 北京，1晚 (01/06/2020 - 01/07/2020)
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 
-# Note
+# 注意事项
 *需要注意重庆江北机场到洪崖洞夜间交通
 
 *需要提前预定重庆到成都高铁票
@@ -104,3 +110,5 @@ Day 9: 成都 - 北京
 *需要提前一天(12/30/2019)预定成都到九寨沟大巴车票， 并准备食物
 
 *需要网上值机，提前选座
+
+###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
