@@ -58,7 +58,7 @@ Day 3: 重庆 - 成都
 住宿: 成都，2晚 (12/31/2019 - 01/02/2020)
 
 链接：
-https://hotels.ctrip.com/hotel/5300407.html?isFull=F&checkIn=2019-12-31&checkOut=2020-01-02&masterhotelid=5300407&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_6
+https://hotels.ctrip.com/hotel/21132716.html?isFull=F&checkIn=2019-12-31&checkOut=2020-01-02&masterhotelid=21132716&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_21
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # 预留时间
@@ -95,7 +95,7 @@ Day 7: 九寨沟 - 成都
 住宿: 成都，2晚  (01/04/2020 - 01/06/2020)
 
 链接：
-https://hotels.ctrip.com/hotel/34068091.html?isFull=F&checkIn=2020-01-04&checkOut=2020-01-06&masterhotelid=34068091&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_4
+https://hotels.ctrip.com/hotel/21132716.html?isFull=F&checkIn=2020-01-04&checkOut=2020-01-06&masterhotelid=21132716&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_21
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # 熊猫基地
