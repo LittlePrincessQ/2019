@@ -27,7 +27,12 @@ Day 1: 北京 - 重庆
 
 住宿: 重庆，2晚 (12/29/2019 - 12/31/2019)
 
-链接：![房间信息](/HOTEL/CQ.jpg)
+链接：
+
+| 房间信息                          | 地理位置 |
+| :----------:                           | :-----------: |
+| ![房间信息](/HOTEL/CQ.jpg) | ![位置](HOTEL/CQ_loc.png) |
+
 https://hotels.ctrip.com/hotel/29783584.html?isFull=F&checkIn=2019-12-29&checkOut=2019-12-31&masterhotelid=29783584&hcityid=4#ctm_ref=hod_sr_lst_dl_n_1_3
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
