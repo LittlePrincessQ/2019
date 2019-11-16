@@ -95,7 +95,7 @@ Day 7: 九寨沟 - 成都
 住宿: 成都，2晚  (01/04/2020 - 01/06/2020)
 
 链接：
-https://hotels.ctrip.com/hotel/34068091.html?isFull=F&checkIn=2019-12-31&checkOut=2020-01-02&masterhotelid=34068091&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_4
+https://hotels.ctrip.com/hotel/34068091.html?isFull=F&checkIn=2020-01-04&checkOut=2020-01-06&masterhotelid=34068091&hcityid=28#ctm_ref=hod_sr_lst_dl_n_1_4
 
 ###### <p dir='rtl' align='right'>[Top](#Schedule)</p>
 # 熊猫基地
